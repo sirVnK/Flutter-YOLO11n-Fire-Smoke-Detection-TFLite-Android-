@@ -46,7 +46,7 @@ YOLO11n (.pt)
 ## Installation
 
 ```bash
-git clone https://github.com/Logshi/Flutter-YOLO11n-Fire-Smoke-Detection-TFLite-Android-.git
+git clone https://github.com/sirVnK/Flutter-YOLO11n-Fire-Smoke-Detection-TFLite-Android-.git
 cd Flutter-YOLO11n-Fire-Smoke-Detection-TFLite-Android-
 flutter pub get
 ```
